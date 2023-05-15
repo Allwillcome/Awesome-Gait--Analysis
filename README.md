@@ -25,8 +25,8 @@ Include open source software and code for gait analysis
 
 - 2018 `C++` `No paper` https://github.com/srinivas-6/Gait-Data-Acquisition-and-Analysis 使用足部的柔性传感器获取步态分期数据，使用大腿和小腿处的传感器获得关节角度，金标准使用 Kinovea 处理视频数据。可借鉴的软件特点能够显示足底压力实时变化。
 - 2018 `Python`  `No paper`https://github.com/MeetGandhi/Gait-Analysis-using-Machine-Learning 使用机器学习技术，以便分别行走正常和经胫骨截肢的人之间的区别。软件没有过多的介绍。
-- 2018 `Matlab` `paper` https://github.com/gait-tech/gaittoolbox 有详细的文档，步态分析有详细的图形界面展示以及数据分析，最近的更新为 2018 年。使用三个 IMU 传感器进行评估。 原本的 Matlab 代码参见 https://github.com/xioTechnologies/Gait-Tracking-With-x-IMU
-- 2018 `Python` `Matlab ` `paper`https://github.com/daehwa/Gait-Tracking-With-x-IMU-Python 使用足部的传感器，获得足部在空间中的三维变化
+- 2018 `Matlab` `paper` https://github.com/gait-tech/gaittoolbox 有详细的文档，步态分析有详细的图形界面展示以及数据分析，最近的更新为 2018 年。使用三个 IMU 传感器进行评估。 
+- 2018 `Python` `Matlab ` `paper`https://github.com/daehwa/Gait-Tracking-With-x-IMU-Python 使用足部的传感器，获得足部在空间中的三维变化 原本的 Matlab 代码参见 https://github.com/xioTechnologies/Gait-Tracking-With-x-IMU
 
 ## 步态识别
 
